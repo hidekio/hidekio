@@ -1,66 +1,61 @@
-<!-- Banner Opcional - posso criar um personalizado com seu nome✨ -->
-<h1 align="center">👋 Hi there, I'm <strong>Gabriel</strong></h1>
-<p align="center">Software Developer & Tech Enthusiast 🚀</p>
+<h1 align="left">Hello world</h1>
 
----
+###
 
-### 🧠 About Me
-- 💻 Apaixonado por tecnologia e desenvolvimento
-- 🚀 Buscando sempre evoluir e criar projetos com impacto real
-- 🔍 Foco atual: Backend, APIs, Segurança e DevOps
-- 🧩 Curioso, resiliente e pronto para novos desafios
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
----
+###
 
-### 🛠️ Tech Stack
+<h2 align="left">About me</h2>
 
-**Linguagens**
-<div>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+###
 
-**Frameworks & Ferramentas**
-<div>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
+<p align="left">-  Apaixonado por tecnologia e desenvolvimento<br>-  Buscando sempre evoluir e criar projetos com impacto real<br>-  Foco atual: Backend, APIs, Segurança e DevOps<br>-  Curioso, resiliente e pronto para novos desafios</p>
 
-*(Se quiser, posso mudar/retirar qualquer que você não usa)* ✅
+###
 
----
+<h2 align="left">I code with</h2>
 
-### 🎯 Projects Highlights
-> *Assim que você me passar os projetos, eu adiciono aqui com descrição e badges!*
+###
 
-📌 **Em breve…**  
-⚙️ API  
-🌐 Site  
-🧩 Algo que resolva um problema de verdade
-
----
-
-### 📊 GitHub Analytics
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hidekio&show_icons=true&theme=github_dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidekio&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hidekio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 📫 Contact
-📧 Email: **gabriel.eguchi2006@gmail.com**  
-🔗 LinkedIn: [Seu LinkedIn Aqui]()
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
----
+###
 
-### ⚡ Fun Fact
-Amo tecnologia e cultura japonesa — sempre aprendendo algo novo todos os dias! 🇯🇵✨
+<div align="center">
+  <img height="200" src="https://hermes.dio.me/assets/articles/92d14246-5276-47da-b14b-ece1e74efe67.png"  />
+</div>
 
----
-
-⭐️ *If you like my work, don’t forget to star my repositories!*
+###
